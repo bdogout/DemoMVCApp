@@ -1,0 +1,6 @@
+C:\Users\17272\source\repos\CustomerDB\bin\Debug\CustomerDB.dacpac
+C:\Users\17272\source\repos\CustomerDB\bin\Debug\CustomerDB.dll
+C:\Users\17272\source\repos\CustomerDB\bin\Debug\CustomerDB.pdb
+C:\Users\17272\source\repos\CustomerDB\obj\Debug\CustomerDB.sqlprojAssemblyReference.cache
+C:\Users\17272\source\repos\CustomerDB\obj\Debug\CustomerDB.dll
+C:\Users\17272\source\repos\CustomerDB\obj\Debug\CustomerDB.pdb
